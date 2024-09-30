@@ -10,7 +10,7 @@ export default function Home() {
       <Hero />
       <main id="main">
         <About />
-        {/* <Menu /> */}
+        <Menu />
       </main>
     </>
     
